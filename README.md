@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:Project Name}
+## AR Foundation - Kill the Goblin
 
 TODO: Write a project description
 
