@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-## AR Foundation - Kill the Goblin
+## AR Foundation - Kill the Goblin  
 
 TODO: Write a project description
 
