@@ -42,17 +42,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e988d6c362ddf614989187f04666a1cf,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 50
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e988d6c362ddf614989187f04666a1cf,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 50
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e988d6c362ddf614989187f04666a1cf,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 50
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e988d6c362ddf614989187f04666a1cf,
         type: 3}
@@ -107,7 +107,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e988d6c362ddf614989187f04666a1cf,
         type: 3}
       propertyPath: m_Name
-      value: Jail 1
+      value: Jail
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
