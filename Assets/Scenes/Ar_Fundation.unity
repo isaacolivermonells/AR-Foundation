@@ -614,7 +614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f04c38650aa2ec48b200dcb0c87fa28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlaceOnPlane
-  m_PlacedPrefab: {fileID: 801799034253681359, guid: dd14de173afd7334ab7a0de3c64b3270,
+  m_PlacedPrefab: {fileID: 333829852760583206, guid: 2e590e824e93a074ebe88d6a7841aa81,
     type: 3}
   spawnedObject: {fileID: 0}
 --- !u!114 &1735581256
@@ -709,7 +709,7 @@ Transform:
   m_GameObject: {fileID: 1735581254}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.8732853, y: -0.82884884, z: -3.6243181}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
