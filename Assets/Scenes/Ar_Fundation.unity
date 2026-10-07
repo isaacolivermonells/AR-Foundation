@@ -461,6 +461,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1563923906}
   - component: {fileID: 1563923905}
+  - component: {fileID: 1563923907}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -548,6 +549,35 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!114 &1563923907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1563923904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &1735581254
 GameObject:
   m_ObjectHideFlags: 0
@@ -584,7 +614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f04c38650aa2ec48b200dcb0c87fa28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlaceOnPlane
-  m_PlacedPrefab: {fileID: 7921331223317608321, guid: fee102beeeb4076489d81f79214592f5,
+  m_PlacedPrefab: {fileID: 801799034253681359, guid: dd14de173afd7334ab7a0de3c64b3270,
     type: 3}
   spawnedObject: {fileID: 0}
 --- !u!114 &1735581256
@@ -699,7 +729,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TrackedImages
   m_TrackedImageManager: {fileID: 1735581263}
-  prefabToSpawn: {fileID: 8587059860807530847, guid: ff44f1c88acb3ec4288b5dff65c0d2f1,
+  prefabToSpawn: {fileID: 7051207159885154006, guid: 9a0e2555ade958543bf70cb342a9fd55,
     type: 3}
 --- !u!114 &1735581263
 MonoBehaviour:
